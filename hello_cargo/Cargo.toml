@@ -1,0 +1,6 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["Chieh-Wen Yang <chuck.yang@hackathon.tw>"]
+
+[dependencies]
